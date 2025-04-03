@@ -1,6 +1,8 @@
 # AutoGPT 💬
 
-A lightweight AI-powered prompt-response web application built with **Streamlit** and powered by **Google's Gemini 2.0 Flash model**. This app allows users to input any prompt and receive real-time AI-generated responses using Google's Generative AI API.
+AutoGPT is a lightweight, interactive web application that leverages Google's Gemini 2.0 Flash model to generate real-time AI responses based on user prompts. Built using Streamlit, this app creates a simple yet powerful interface where users can input custom text queries and receive intelligent responses directly from a large language model (LLM) via Google’s Generative AI API.
+
+This project demonstrates the integration of modern LLM APIs into a responsive Python web interface, focusing on rapid prototyping, prompt engineering, and secure API key handling using environment variables.
 
 ---
 
